@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🌦️ WeatherApp  
 
 A modern and responsive weather application built with **Vite + React**, styled with **TailwindCSS**, and featuring beautiful icons from **Lucide React**.  
