@@ -15,5 +15,12 @@ A modern and responsive weather application built with **Vite + React**, styled 
 - [TailwindCSS](https://tailwindcss.com/) – Utility-first styling  
 - [Lucide React](https://lucide.dev/) – Open-source icon set  
 
-## 📸 Screenshots  
+## 📸 Screenshots
+
+### Home Page
+![Home Page](assets/light.png)
+
+### Weather Details
+![Weather Details](assets/dark.png)
+
 
