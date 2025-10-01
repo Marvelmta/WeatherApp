@@ -17,11 +17,4 @@ A modern and responsive weather application built with **Vite + React**, styled 
 - [Lucide React](https://lucide.dev/) – Open-source icon set  
 
 ## 📸 Screenshots  
-> _(Add some screenshots here once the app UI is ready)_  
 
-## 🛠️ Installation  
-
-Clone the repository:  
-```bash
-git clone https://github.com/your-username/WeatherApp.git
-cd WeatherApp
